@@ -17,6 +17,5 @@ Se le pueden cargar datos de prueba desde la terminal haciendo por ejemplo:
 rails c
 Colaborador.create(nombre:"pedro", apellido:"gonzales",contacto: "pgonzales@gmail.com,puntos: 100, cantDonaciones:2)"
 ```
-rails c abre una terminal de rails.
 Eso crea un colaborador y lo persiste. 
 Si se quiere que solo quede en memoria usar .new en lugar de .create. Tambien puede persistirse usando .new y luego .save.
