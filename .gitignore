@@ -6,3 +6,4 @@
 /bin/
 /public/
 /.idea
+/config/*.key
