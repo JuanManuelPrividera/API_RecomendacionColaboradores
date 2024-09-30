@@ -1,0 +1,16 @@
+current directory: /home/Juan_Manuel/facultad/Diseño_de_Sistemas/2024-tpa-ma-ma-grupo-11/API_RecomendacionDeColaboradores/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/Juan_Manuel/facultad/Diseño_de_Sistemas/2024-tpa-ma-ma-grupo-11/API_RecomendacionDeColaboradores/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240901-157331-hf8skr sitelibdir\=./.gem.20240901-157331-hf8skr clean
+
+current directory: /home/Juan_Manuel/facultad/Diseño_de_Sistemas/2024-tpa-ma-ma-grupo-11/API_RecomendacionDeColaboradores/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240901-157331-hf8skr sitelibdir\=./.gem.20240901-157331-hf8skr
+make: No se hace nada para 'all'.
+
+current directory: /home/Juan_Manuel/facultad/Diseño_de_Sistemas/2024-tpa-ma-ma-grupo-11/API_RecomendacionDeColaboradores/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240901-157331-hf8skr sitelibdir\=./.gem.20240901-157331-hf8skr install
+
+current directory: /home/Juan_Manuel/facultad/Diseño_de_Sistemas/2024-tpa-ma-ma-grupo-11/API_RecomendacionDeColaboradores/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240901-157331-hf8skr sitelibdir\=./.gem.20240901-157331-hf8skr clean

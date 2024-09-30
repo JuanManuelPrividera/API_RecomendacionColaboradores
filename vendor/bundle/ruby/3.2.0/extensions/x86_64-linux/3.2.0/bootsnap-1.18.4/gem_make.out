@@ -1,0 +1,22 @@
+current directory: /home/Juan_Manuel/facultad/Diseño_de_Sistemas/2024-tpa-ma-ma-grupo-11/API_RecomendacionDeColaboradores/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.18.4/ext/bootsnap
+/usr/bin/ruby extconf.rb
+checking for fdatasync() in unistd.h... yes
+checking for whether -D_GNU_SOURCE is accepted as CPPFLAGS... yes
+checking for whether -O3 is accepted as CFLAGS... yes
+checking for whether -std=c99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /home/Juan_Manuel/facultad/Diseño_de_Sistemas/2024-tpa-ma-ma-grupo-11/API_RecomendacionDeColaboradores/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.18.4/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240901-157331-z8bw8g sitelibdir\=./.gem.20240901-157331-z8bw8g clean
+
+current directory: /home/Juan_Manuel/facultad/Diseño_de_Sistemas/2024-tpa-ma-ma-grupo-11/API_RecomendacionDeColaboradores/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.18.4/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240901-157331-z8bw8g sitelibdir\=./.gem.20240901-157331-z8bw8g
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/Juan_Manuel/facultad/Diseño_de_Sistemas/2024-tpa-ma-ma-grupo-11/API_RecomendacionDeColaboradores/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.18.4/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240901-157331-z8bw8g sitelibdir\=./.gem.20240901-157331-z8bw8g install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20240901-157331-z8bw8g/bootsnap
+
+current directory: /home/Juan_Manuel/facultad/Diseño_de_Sistemas/2024-tpa-ma-ma-grupo-11/API_RecomendacionDeColaboradores/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.18.4/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240901-157331-z8bw8g sitelibdir\=./.gem.20240901-157331-z8bw8g clean
