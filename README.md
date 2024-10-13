@@ -53,7 +53,7 @@ gem install rails
 rake datos_prueba:crear
 ```
 
-Eso crea unos colaboradores y los persiste, hacer luego de que se haya creado el esquema en mysql. 
+Eso crea unos colaboradores y los persiste en la base de datos que se haya definido en el databse.yml (primero tener eso bien configurado), hacer luego de que se haya creado el esquema en mysql. 
 Por ultimo levantamos la api y probamos
 
 ```
