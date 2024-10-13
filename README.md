@@ -1,5 +1,6 @@
 # Primero que nada 
 git clone https://github.com/JuanManuelPrividera/API_RecomendacionColaboradores.git
+
 cd API_RecomendacionColaboradores 
 
 # Base de datos
