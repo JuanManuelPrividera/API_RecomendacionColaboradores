@@ -20,7 +20,7 @@ default: &default
 
 development:
   <<: *default
-  database: {nombre-del-esquema-en-la-bd}
+  database: {nombre-de-la-bd}
 
 
 test:
@@ -41,6 +41,7 @@ rails db:create
 rails db:migrate
 ```
 Esto instala las dependencias necesarias y crea el esquema en la bd que se haya definido
+Comprobar en mysql que haya creado la base de datos antes de continuar!
 Si tira error de que no tiene Rails: 
 ```
 gem install rails 
