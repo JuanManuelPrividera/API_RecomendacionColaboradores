@@ -42,7 +42,8 @@ rails db:migrate
 ```
 Esto instala las dependencias necesarias y crea el esquema en la bd que se haya definido
 
-Comprobar en mysql que haya creado la base de datos antes de continuar!
+**Comprobar en mysql que haya creado la base de datos antes de continuar! **
+Si no se creo correctamente revisar los pasos anteriores y/o la configuracion del database.yml
 
 Si tira error de que no tiene Rails: 
 ```
@@ -65,6 +66,7 @@ rails s
 Levanta el servidor el puerto 3000 por defecto.
 Con eso ya se pueden realizar solicitudes a la api.
 
+## Ejemplo de solicitud y respuesta
 ```
 curl 'http://127.0.0.1:3000/simeal/api/colabs/recomendacion?puntos=20&donaciones=0&max=5' | jq
 
